@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">
+        Gooogle Officialy announced its much-much-anticipated Pixel phones; the Pixel and Pixel XL, on
+October 4. We attended Google’s London UK event, mirroring the
+main one taking place in San Francisco, US, where the firm
+unwrapped the new Android 7.1 Nougat devices which will
+apparently usurp Google’s long-standing Nexus series.
+    </string>
+    <string name="content_specs_display">
+        5.0 inches/n FHD AMOLED at 441ppi/n
+        2.5d Corning Gorilla Glass 4
+    </string>
+    <string name="content_spec_size">
+        5.6 x 2.7 x 0.2 - 0.3 inches
+        143.88 x 69.5 x 7.3 - 7,15 mm
+    </string>
+    <string name="content_specs_battery">
+        2.978 mAh battery/n
+        StandBy Time (LTE/5G)       : Up To 39 Hours/n
+        Talk Time (3G/WCDMA)        : Up To 26 Hours/n
+        Internet Use Time (Wi-Fi)   : Up To 11 Hours/n
+        Internet Use Time (LTE)     : Up To 9  Hours/n
+        Video Playback              : Up To 12 Hours/n
+        Audio Playback (Headset)    : Up To 23 Hours/n
+        Charging                    : 125 WATT(15 Minutes From 0 Of Charging)/n
+    </string>
+    <string name="stock">Stock Only 5</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Narenda Wicaksono</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$735</string>
+    <string name="dummy_photos">6 photos</string>
+
+</resources>
